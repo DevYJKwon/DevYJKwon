@@ -1,16 +1,14 @@
-### Hi there 👋
 
-<!--
-**DevYJKwon/DevYJKwon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![header](https://capsule-render.vercel.app/api?type=cylinder&color=auto&height=300&section=header&text=Welcome&fontSize=90&desc=DevYJKwon&descAlignY=70&animation=fadeIn)
 
-Here are some ideas to get you started:
+## Tech
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- C 
+- C++
+- C#
+- JAVA
+- PYTHON
+- SPRINGBOOT(studying)
+- UNITY(studying)
+
+
