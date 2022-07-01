@@ -8,6 +8,7 @@
 - C#
 - JAVA
 - PYTHON
+- ANDROID
 
 ## ✏️Studying
 - SPRINGBOOT
