@@ -11,6 +11,6 @@
 - ANDROID
 
 ## ✏️Studying
-- SPRINGBOOT
+- SPRIN
 - UNITY
 
