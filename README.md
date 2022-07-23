@@ -11,6 +11,6 @@
 - ANDROID
 
 ## ✏️Studying
-- SPRIN
+- SPRING
 - UNITY
 
