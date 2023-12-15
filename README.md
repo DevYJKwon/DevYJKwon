@@ -19,7 +19,8 @@
 
 
 ## ⛏Project
+
 Twith 액티비티 기반 여행 일정 및 메이트 매칭 프로젝트
 
-front: (https://github.com/P-rip/p-rip_client)
-server : (https://github.com/P-rip/p-rip_server)
+[front](https://github.com/P-rip/p-rip_client)
+[server](https://github.com/P-rip/p-rip_server)
