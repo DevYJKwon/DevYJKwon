@@ -3,21 +3,23 @@
 
 ## ⚒️Tech
 
+- Java
 - C 
 - C++
 - C#
-- Java
 - Dart
 - Python
 - AndriodStudio
 - Unity
 - Flutter
+- VueJS
 
 ## ✏️Studying
 - SpringBoot
-- VueJS
-
-
+- SpringSecurity
+- JPA
+- Redis
+  
 ## ⛏Project
 
 - Twith 액티비티 기반 여행 일정 및 메이트 매칭 프로젝트
