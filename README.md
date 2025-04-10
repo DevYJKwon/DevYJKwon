@@ -21,13 +21,7 @@
 ![GitBook](https://img.shields.io/badge/GitBook-%23000000.svg?style=for-the-badge&logo=gitbook&logoColor=white)
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 
-## Studying
+## ✏️Studying
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
   
-## ⛏Project
-
-- Twith 액티비티 기반 여행 일정 및 메이트 매칭 프로젝트
-
-[front](https://github.com/P-rip/p-rip_client)
-[server](https://github.com/P-rip/p-rip_server)
 
